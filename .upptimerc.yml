@@ -9,6 +9,7 @@ sites:
       - 418
   - name: Luanet Webmin
     url: https://luanet.ddns.net:10000/
+    __dangerous__disable_verify_peer: true
   - name: Home Assistant
     url: https://home.linkpuff.me/
   - name: Luanet Portainer
