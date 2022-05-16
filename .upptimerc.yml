@@ -6,8 +6,8 @@ user-agent: dimaguy
 sites:
   - name: linkpuff.me
     url: https://linkpuff.me/teapot/
-    - expectedStatusCodes:
-        - 418
+    expectedStatusCodes:
+      - 418
   - name: Luanet Webmin
     url: https://luanet.ddns.net:10000/
   - name: Home Assistant
